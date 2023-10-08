@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=IllegalMoveException
+comment0.text=\r\n\ Exception\ for\ valid\ input,\ but\ illegal\ moves.\r\n
+comment1.params=
+comment1.target=IllegalMoveException()
+numComments=2

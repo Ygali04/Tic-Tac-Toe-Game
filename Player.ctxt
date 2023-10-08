@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Parent\ class\ for\ all\ Player\ objects.\ \r\n
+comment1.params=board\ mark
+comment1.target=Player(TicTacToeBoard,\ char)
+comment1.text=\r\n\ Accepts\ a\ reference\ to\ the\ game\ board\ and\ the\ player's\ mark.\r\n\ @param\ board\ Reference\ to\ the\ game\ board.\r\n\ @param\ mark\ The\ player's\ mark.\r\n
+comment2.params=
+comment2.target=boolean\ makeMove()
+comment2.text=\r\n\ Attempts\ a\ move.\ \r\n\ @return\ True\ if\ the\ move\ results\ in\ a\ win.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ Returns\ the\ name\ of\ the\ Player.\r\n\ @return\ Name\ of\ the\ player.\r\n
+numComments=4

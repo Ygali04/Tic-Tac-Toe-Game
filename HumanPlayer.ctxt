@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=HumanPlayer
+comment0.text=\r\n\ Represents\ a\ human\ player.\r\n
+comment1.params=board\ mark
+comment1.target=HumanPlayer(TicTacToeBoard,\ char)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Retrieves\ the\ name\ associated\ with\ this\ Player.\r\n\ @return\ Name\ of\ the\ Player.\r\n
+comment3.params=
+comment3.target=boolean\ makeMove()
+comment3.text=\r\n\ Allows\ player\ to\ attempt\ a\ move.\ The\ player\ will\ be\ notified\ of\ invalid\r\n\ or\ illegal\ moves\ and\ will\ be\ asked\ to\ try\ again.\r\n\ @return\ True\ if\ the\ move\ results\ in\ a\ finished\ game.\r\n
+numComments=4
