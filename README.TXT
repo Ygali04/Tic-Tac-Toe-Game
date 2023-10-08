@@ -15,9 +15,3 @@ AUTHORS: Yahvin Gali
 	I am also planing on adding sound effects and a seperate multiplayer mode. Perhaps, by next year, I would 
 	be able to create an app that uses the code I created and graphics and sfx from the MIT free app creater.
 	The possibilities are limitless, but I am sure I would have an immesurable amount of fun throughout it all.
-
-<cons>: I felt the comments which were in the files provided for the project where a bit lackluster and confusing.
-	During my first read through of the comments, I thought that the player who goes first should continue 
-	making moves until they hit a win, without the second player getting a chance to make a single move. I wish
-	the words "alternating moves" or "one mark placed per turn" were used to elaborate on the structure of the game
-	being designed by students.
